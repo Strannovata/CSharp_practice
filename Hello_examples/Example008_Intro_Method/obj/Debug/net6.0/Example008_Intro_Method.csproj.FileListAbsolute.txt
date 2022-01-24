@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\bin\Debug\net6.0\ref\Example008_Intro_Method.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\ref\Example008_Intro_Method.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.genruntimeconfig.cache

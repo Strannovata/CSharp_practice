@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\bin\Debug\net6.0\Example011_Array_Library.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\bin\Debug\net6.0\Example011_Array_Library.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\bin\Debug\net6.0\Example011_Array_Library.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\bin\Debug\net6.0\Example011_Array_Library.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\bin\Debug\net6.0\ref\Example011_Array_Library.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\bin\Debug\net6.0\Example011_Array_Library.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\ref\Example011_Array_Library.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example011_Array_Library\obj\Debug\net6.0\Example011_Array_Library.genruntimeconfig.cache

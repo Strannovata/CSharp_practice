@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\bin\Debug\net6.0\Example002_Hello_user.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\bin\Debug\net6.0\Example002_Hello_user.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\bin\Debug\net6.0\Example002_Hello_user.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\bin\Debug\net6.0\Example002_Hello_user.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\bin\Debug\net6.0\ref\Example002_Hello_user.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\bin\Debug\net6.0\Example002_Hello_user.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\ref\Example002_Hello_user.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example002_Hello_user\obj\Debug\net6.0\Example002_Hello_user.genruntimeconfig.cache

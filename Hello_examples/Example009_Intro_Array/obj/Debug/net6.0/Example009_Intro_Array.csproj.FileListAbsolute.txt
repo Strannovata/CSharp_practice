@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\bin\Debug\net6.0\Example009_Intro_Array.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\bin\Debug\net6.0\Example009_Intro_Array.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\bin\Debug\net6.0\Example009_Intro_Array.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\bin\Debug\net6.0\Example009_Intro_Array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\bin\Debug\net6.0\ref\Example009_Intro_Array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\bin\Debug\net6.0\Example009_Intro_Array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\ref\Example009_Intro_Array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example009_Intro_Array\obj\Debug\net6.0\Example009_Intro_Array.genruntimeconfig.cache

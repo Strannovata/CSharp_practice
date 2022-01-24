@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\bin\Debug\net6.0\ref\Example007_Magic.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache

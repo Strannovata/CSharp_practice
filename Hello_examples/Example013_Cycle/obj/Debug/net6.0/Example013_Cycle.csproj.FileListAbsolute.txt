@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\bin\Debug\net6.0\Example013_Cycle.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\bin\Debug\net6.0\Example013_Cycle.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\bin\Debug\net6.0\Example013_Cycle.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\bin\Debug\net6.0\Example013_Cycle.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\bin\Debug\net6.0\ref\Example013_Cycle.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\bin\Debug\net6.0\Example013_Cycle.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\ref\Example013_Cycle.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Hello_examples\Example013_Cycle\obj\Debug\net6.0\Example013_Cycle.genruntimeconfig.cache
