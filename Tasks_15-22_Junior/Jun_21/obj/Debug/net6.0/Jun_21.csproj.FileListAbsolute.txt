@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\bin\Debug\net6.0\Jun_21.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\bin\Debug\net6.0\Jun_21.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\bin\Debug\net6.0\Jun_21.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\bin\Debug\net6.0\Jun_21.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\bin\Debug\net6.0\ref\Jun_21.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\bin\Debug\net6.0\Jun_21.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\ref\Jun_21.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_15-22_Junior\Jun_21\obj\Debug\net6.0\Jun_21.genruntimeconfig.cache
