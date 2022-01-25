@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\bin\Debug\net6.0\Middle_24.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\bin\Debug\net6.0\Middle_24.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\bin\Debug\net6.0\Middle_24.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\bin\Debug\net6.0\Middle_24.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\bin\Debug\net6.0\ref\Middle_24.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\bin\Debug\net6.0\Middle_24.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\ref\Middle_24.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_23-30_Middle\Middle_24\obj\Debug\net6.0\Middle_24.genruntimeconfig.cache
