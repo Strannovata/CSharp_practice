@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\bin\Debug\net6.0\Senior_40.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\bin\Debug\net6.0\Senior_40.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\bin\Debug\net6.0\Senior_40.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\bin\Debug\net6.0\Senior_40.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\bin\Debug\net6.0\ref\Senior_40.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\bin\Debug\net6.0\Senior_40.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\ref\Senior_40.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_31-40_Senior\Senior_40\obj\Debug\net6.0\Senior_40.genruntimeconfig.cache
