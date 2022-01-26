@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\bin\Debug\net6.0\alphabet.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\bin\Debug\net6.0\alphabet.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\bin\Debug\net6.0\alphabet.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\bin\Debug\net6.0\alphabet.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\bin\Debug\net6.0\ref\alphabet.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\bin\Debug\net6.0\alphabet.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\ref\alphabet.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\alphabet\obj\Debug\net6.0\alphabet.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\bin\Debug\net6.0\input_array.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\bin\Debug\net6.0\input_array.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\bin\Debug\net6.0\input_array.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\bin\Debug\net6.0\input_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\bin\Debug\net6.0\ref\input_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\bin\Debug\net6.0\input_array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\ref\input_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\input_array\obj\Debug\net6.0\input_array.genruntimeconfig.cache

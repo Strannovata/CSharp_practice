@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\bin\Debug\net6.0\max_in_2.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\bin\Debug\net6.0\max_in_2.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\bin\Debug\net6.0\max_in_2.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\bin\Debug\net6.0\max_in_2.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\bin\Debug\net6.0\ref\max_in_2.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\bin\Debug\net6.0\max_in_2.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\ref\max_in_2.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\max_in_2\obj\Debug\net6.0\max_in_2.genruntimeconfig.cache

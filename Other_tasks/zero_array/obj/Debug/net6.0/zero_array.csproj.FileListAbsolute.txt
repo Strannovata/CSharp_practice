@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\bin\Debug\net6.0\zero_array.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\bin\Debug\net6.0\zero_array.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\bin\Debug\net6.0\zero_array.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\bin\Debug\net6.0\zero_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\bin\Debug\net6.0\ref\zero_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\bin\Debug\net6.0\zero_array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\ref\zero_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\zero_array\obj\Debug\net6.0\zero_array.genruntimeconfig.cache

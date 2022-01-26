@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\bin\Debug\net6.0\random_array.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\bin\Debug\net6.0\random_array.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\bin\Debug\net6.0\random_array.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\bin\Debug\net6.0\random_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\bin\Debug\net6.0\ref\random_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\bin\Debug\net6.0\random_array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\ref\random_array.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\random_array\obj\Debug\net6.0\random_array.genruntimeconfig.cache

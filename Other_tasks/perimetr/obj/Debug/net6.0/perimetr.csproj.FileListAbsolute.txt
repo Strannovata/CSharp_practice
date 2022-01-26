@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\bin\Debug\net6.0\perimetr.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\bin\Debug\net6.0\perimetr.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\bin\Debug\net6.0\perimetr.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\bin\Debug\net6.0\perimetr.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\bin\Debug\net6.0\ref\perimetr.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\bin\Debug\net6.0\perimetr.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\ref\perimetr.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\perimetr\obj\Debug\net6.0\perimetr.genruntimeconfig.cache

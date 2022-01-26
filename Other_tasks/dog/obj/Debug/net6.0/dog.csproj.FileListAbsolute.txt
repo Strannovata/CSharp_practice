@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\bin\Debug\net6.0\dog.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\bin\Debug\net6.0\dog.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\bin\Debug\net6.0\dog.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\bin\Debug\net6.0\dog.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\bin\Debug\net6.0\ref\dog.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\bin\Debug\net6.0\dog.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\ref\dog.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Other_tasks\dog\obj\Debug\net6.0\dog.genruntimeconfig.cache
