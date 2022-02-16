@@ -12,7 +12,7 @@ int CountPositive(int N)
         System.Console.WriteLine($"Введите число {number}>>> ");
         string S = System.Console.ReadLine();
         array[i] = Convert.ToInt32(S);
-        number++;
+        number++; 
     }
 
     for (i = 0; i < array.Length; i++)
