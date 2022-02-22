@@ -1,0 +1,16 @@
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\bin\Debug\net6.0\Lead_46.exe
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\bin\Debug\net6.0\Lead_46.deps.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\bin\Debug\net6.0\Lead_46.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\bin\Debug\net6.0\Lead_46.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\bin\Debug\net6.0\ref\Lead_46.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\bin\Debug\net6.0\Lead_46.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.GlobalUsings.g.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\ref\Lead_46.dll
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.pdb
+C:\Users\АНАСТАСИЯ\Personality\Study\C#\Tasks_41-47_Lead\Lead_46\obj\Debug\net6.0\Lead_46.genruntimeconfig.cache
